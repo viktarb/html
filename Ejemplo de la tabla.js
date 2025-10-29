@@ -22,4 +22,5 @@ for (let i = 0; i < productos.length; i++) {
 console.log("El total valor del almacen es: " + costeTotalAlmacen + " euros.");
 
 
-Creada un nueva lídea desde le Hub
+
+//Eliminada línea anterior desde Visual Studio
